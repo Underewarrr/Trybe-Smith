@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Docker Image CI Back-End
 
 on:
   push:
@@ -14,5 +14,5 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - name: Build the Docker image
-      run: docker build .
+    - name: Teste if docker build imagem in backend
+      run: docker build . --tag smith-backend-end:$(date +%s)
