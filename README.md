@@ -15,8 +15,7 @@ Projeto feito com base na arquitetura Model-Service-Controller utilizando TypeSc
 - Joi
 - Mocha
 - Sinnon
-- Chai
-Projeto 
+- Chai 
 
 ### Endpoints
 
