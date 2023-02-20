@@ -1,5 +1,6 @@
 # ⚔️ Projeto Trybe Smith ⚔️
 
+
 ## Tecnologias Utilizadas
 - TypeScript
 - NodeJs
