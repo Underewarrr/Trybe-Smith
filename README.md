@@ -1,5 +1,5 @@
 # ⚔️ Projeto Trybe Smith ⚔️
-
+[![Docker Image CI Back-End](https://github.com/Underewarrr/Trybe-Smith/actions/workflows/docker-build.yml/badge.svg)](https://github.com/Underewarrr/Trybe-Smith/actions/workflows/docker-build.yml)
 
 ## Tecnologias Utilizadas
 - TypeScript
