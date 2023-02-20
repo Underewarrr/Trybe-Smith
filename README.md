@@ -1,7 +1,7 @@
 # ⚔️ Projeto Trybe Smith ⚔️
 ### Descrição 📝
 
-APIRestful em Node.js de um CRUD completo de sistema de gerenciamento de vendas de produtos medievais utiliazndo MySQL como banco de dados
+APIRestful em Node de um CRUD completo de sistema de gerenciamento de vendas de produtos medievais utiliazndo MySQL como banco de dados
 Projeto feito com base na arquitetura Model-Service-Controller utilizando TypeScript.
 
 ## Tecnologias Utilizadas
